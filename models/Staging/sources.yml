@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: retail_db
+    database: retail_db
+    schema: public
+    tables:
+      - name: orders
